@@ -3,6 +3,7 @@
 
 ### Redes sociais:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-gabriel-4b9213221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiogbiel13@gmail.com)
 
 ### Github Stats:
 ![Caio Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=caiogbiel&show_icons=true&theme=tokyonight)
@@ -26,3 +27,6 @@
     <img align="center" alt="MySQL" src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img align="center" alt="Linux Mint" src= "https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white"/>
 </div><br/>
+
+### Breve descrição acerca de mim:
+Entusiasta da programação apaixonado por explorar novas tecnologias e sempre aberto a aprender, evoluir e inovar. Além disso, sou músico nas horas vagas, encontrando inspiração tanto na harmonia dos códigos quanto na melodia das notas.
