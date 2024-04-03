@@ -31,4 +31,4 @@
 ### Breve descrição acerca de mim:
 Entusiasta da programação apaixonado por explorar novas tecnologias e sempre aberto a aprender, evoluir e inovar. Além disso, sou músico nas horas vagas, encontrando inspiração tanto na harmonia dos códigos quanto na melodia das notas.
 
-![Snake animation](https://github.com/caiogbiel)
+![snake gif](https://github.com/caiogbiel/caiogbiel/blob/output/github-contribution-grid-snake.gif)
